@@ -1,8 +1,10 @@
 # SOC Dashboard Redesign
 ### Reducing Alert Fatigue for Security Operations Center Analysts
 
+🔴 **[Live App → logicalcoders--soc-dashboard.retool.app](https://logicalcoders--soc-dashboard.retool.app/)**
+
 **Role:** Digital Product Designer (UX Research · Interaction Design · Prototype)  
-**Tools:** Adobe XD · Figma · Miro · Excel  
+**Tools:** Adobe XD · Figma · Miro · Excel · Retool · Supabase  
 **Timeline:** 8 weeks  
 **Target Companies:** CrowdStrike · SentinelOne · Splunk · Palo Alto Networks  
 
