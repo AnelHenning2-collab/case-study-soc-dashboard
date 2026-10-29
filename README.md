@@ -183,4 +183,4 @@ Moderated usability testing with 4 participants (2 junior analysts, 2 mid-level)
 
 **Anèl Henning** — Digital Product Designer with MS Cybersecurity Management (Purdue Global, 2026), BFA Graphic Design (MICA), BS Computer Science, and HIPAA Business Associate Certification. Based in Tampa, FL.
 
-[Portfolio](https://anel-henning.github.io/ux-cybersecurity-portfolio) · [GitHub](https://github.com/AnelHenning2-collab) · [Email](mailto:logicalcoders@outlook.com)
+[Portfolio](https://anelhenning2-collab.github.io/ux-cybersecurity-portfolio/) · [GitHub](https://github.com/AnelHenning2-collab) · [Email](mailto:logicalcoders@outlook.com)
